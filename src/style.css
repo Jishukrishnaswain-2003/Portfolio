@@ -31,7 +31,6 @@ html::-webkit-scrollbar-thumb {
 .navbar {
     height: 4rem;
     width: 100vw;
-    max-width: 75rem;
     margin: 0 auto;
     padding: 1rem 2rem;
     display: flex;
